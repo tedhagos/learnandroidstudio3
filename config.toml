@@ -1,14 +1,18 @@
 baseURL = "http://tedhagos.com/learnandroidstudio3"
 languageCode = "en-us"
-title = "LAS3"
+title = "Learn Android Studio 3"
 theme = "ananke"
 publishDir = "docs"
 Paginate = 10
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
 
-# SectionPagesMenu = "main"
+
+
+SectionPagesMenu = "main"
 
 [params]
-  body_classes = "avenir bg-near-white"
+  # body_classes = "avenir bg-near-white"
   custom_css = ["/custom.css"]
   recent_posts_number = 2
   background_color_class = "bg-black"

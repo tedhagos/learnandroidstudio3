@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn Android Studio 3 on LAS3</title>
+    <link>http://tedhagos.com/learnandroidstudio3/</link>
+    <description>Recent content in Learn Android Studio 3 on LAS3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2018 12:03:47 +0800</lastBuildDate>
+    
+	<atom:link href="http://tedhagos.com/learnandroidstudio3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>http://tedhagos.com/learnandroidstudio3/posts/hello/</link>
+      <pubDate>Mon, 15 Jan 2018 12:03:47 +0800</pubDate>
+      
+      <guid>http://tedhagos.com/learnandroidstudio3/posts/hello/</guid>
+      <description>Hello there
+class Hello { public static void main(String []args) { System.out.printf(&amp;quot;Hello %s&amp;quot;, &amp;quot;World&amp;quot;) } }  </description>
+    </item>
+    
+  </channel>
+</rss>

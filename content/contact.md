@@ -1,7 +1,8 @@
 ---
 title: Contact
-description: We'd love to hear from you
+description: 
 type: page
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 menu:
   main: {}
 ---

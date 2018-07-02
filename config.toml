@@ -6,7 +6,7 @@ publishDir = "docs"
 Paginate = 10
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-
+disqusShortname = "learnandroidstudio3"
 
 
 SectionPagesMenu = "main"

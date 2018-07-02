@@ -9,13 +9,14 @@ DefaultContentLanguage = "en"
 disqusShortname = "tedhagos-com-learnandroidstudio3"
 
 
-SectionPagesMenu = "main"
+# SectionPagesMenu = "main"
 
 [params]
   # body_classes = "avenir bg-near-white"
   custom_css = ["/custom.css"]
-  recent_posts_number = 2
+  recent_posts_number = 10
   background_color_class = "bg-black"
+  featured_image = "/images/social-media-phone.jpg"
 
 
 

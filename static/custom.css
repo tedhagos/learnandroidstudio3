@@ -14,6 +14,10 @@ pre  {
   color: #000;
 }
 
+article.pa3 {
+  text-align: left;
+}
+
 /* .nested-img img {
   width: 70%;
   max-width: 100%;

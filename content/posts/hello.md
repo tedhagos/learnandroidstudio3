@@ -4,6 +4,8 @@ date: 2018-01-29T12:03:47+08:00
 draft: false
 toc: false
 # featured_image: '/images/amsohappy.jpg'
+# featured_image: '/images/calendarcheck.jpg'
+featured_image: '/images/laptop-feet.jpg'
 ---
 
 - Sometime in 2010, I picked up Android. I've had more than 10 years of Java experience at that point, so I thought it wasn't going to be a big deal. I was wrong — writing programs for Android was very different from writing programs for the web and desktop

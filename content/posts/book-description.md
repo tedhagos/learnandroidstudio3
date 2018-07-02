@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Book Description"
 date: 2018-01-30T17:36:02+08:00
 description: Grok Android programming using Kotlin and Android Studio 3
 draft: false
